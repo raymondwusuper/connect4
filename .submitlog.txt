@@ -1,0 +1,59 @@
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+....
+Done.
+Total bytes written: 7168
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Sat Mar  1 15:33:10 2025
+   previous file size:   7168 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+..
+Done.
+Total bytes written: 7168
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Sat Mar  1 18:13:27 2025
+   previous file size:   7168 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+.....
+Done.
+Total bytes written: 11776
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Sat Mar  1 20:02:52 2025
+   previous file size:   11776 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+..........
+Done.
+Total bytes written: 11776
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Sat Mar  1 20:16:12 2025
+   previous file size:   11776 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+......
+Done.
+Total bytes written: 11776
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Tue Mar  4 14:41:33 2025
+   previous file size:   11776 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+................
+Done.
+Total bytes written: 12288
+Please check to be sure that's reasonable.
+A previously turned-in file exists.
+   previous file name:   /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+   previous file dated:  Wed Mar  5 02:13:05 2025
+   previous file size:   12288 bytes
+Copying to /home/linux/ieng6/ee15wi25/turnin.dest/raw011.PA5
+.............
+Done.
+Total bytes written: 12288
+Please check to be sure that's reasonable.
